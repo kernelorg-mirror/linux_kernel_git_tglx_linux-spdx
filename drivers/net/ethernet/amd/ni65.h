@@ -1,7 +1,5 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* am7990 (lance) definitions
- *
- * This is an extension to the Linux operating system, and is covered by
- * same GNU General Public License that covers that work.
  *
  * Michael Hipp
  * email: mhipp@student.uni-tuebingen.de
