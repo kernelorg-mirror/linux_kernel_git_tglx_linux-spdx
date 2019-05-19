@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * QLogic Fibre Channel HBA Driver
  * Copyright (c)  2003-2017 QLogic Corporation
