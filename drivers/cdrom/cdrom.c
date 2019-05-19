@@ -1,10 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /* linux/drivers/cdrom/cdrom.c
    Copyright (c) 1996, 1997 David A. van Leeuwen.
    Copyright (c) 1997, 1998 Erik Andersen <andersee@debian.org>
    Copyright (c) 1998, 1999 Jens Axboe <axboe@image.dk>
 
-   May be copied or modified under the terms of the GNU General Public
-   License.  See linux/COPYING for more information.
 
    Uniform CD-ROM driver for Linux.
    See Documentation/cdrom/cdrom-standard.tex for usage information.

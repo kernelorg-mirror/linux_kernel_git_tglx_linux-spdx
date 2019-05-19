@@ -1,12 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * arch/arm/include/asm/hardware/locomo.h
  *
  * This file contains the definitions for the LoCoMo G/A Chip
  *
  * (C) Copyright 2004 John Lenz
- *
- * May be copied or modified under the terms of the GNU General Public
- * License.  See linux/COPYING for more information.
  *
  * Based on sa1111.h
  */

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * ATAPI CD-ROM driver.
  *
@@ -5,9 +6,6 @@
  * Copyright (C) 1996-1998   Erik Andersen <andersee@debian.org>
  * Copyright (C) 1998-2000   Jens Axboe <axboe@suse.de>
  * Copyright (C) 2005, 2007-2009  Bartlomiej Zolnierkiewicz
- *
- * May be copied or modified under the terms of the GNU General Public
- * License.  See linux/COPYING for more information.
  *
  * See Documentation/cdrom/ide-cd for usage information.
  *
