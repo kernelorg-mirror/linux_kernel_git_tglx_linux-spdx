@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * IDE ATAPI streaming tape driver.
  *
@@ -7,9 +8,6 @@
  * This driver was constructed as a student project in the software laboratory
  * of the faculty of electrical engineering in the Technion - Israel's
  * Institute Of Technology, with the guide of Avner Lottem and Dr. Ilana David.
- *
- * It is hereby placed under the terms of the GNU general public license.
- * (See linux/COPYING).
  *
  * For a historical changelog see
  * Documentation/ide/ChangeLog.ide-tape.1995-2002
