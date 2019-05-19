@@ -1,17 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
 /* lshrdi3.c extracted from gcc-2.7.2/libgcc2.c which is: */
 /* Copyright (C) 1989, 1992, 1993, 1994, 1995 Free Software Foundation, Inc.
 
 This file is part of GNU CC.
 
-GNU CC is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2, or (at your option)
-any later version.
-
-GNU CC is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details. */
+ */
 
 #include <linux/compiler.h>
 #include <linux/export.h>
