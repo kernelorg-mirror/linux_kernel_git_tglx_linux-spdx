@@ -1,20 +1,11 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  *    Disk Array driver for HP Smart Array SAS controllers
  *    Copyright 2016 Microsemi Corporation
  *    Copyright 2014-2015 PMC-Sierra, Inc.
  *    Copyright 2000,2009-2015 Hewlett-Packard Development Company, L.P.
  *
- *    This program is free software; you can redistribute it and/or modify
- *    it under the terms of the GNU General Public License as published by
- *    the Free Software Foundation; version 2 of the License.
- *
- *    This program is distributed in the hope that it will be useful,
- *    but WITHOUT ANY WARRANTY; without even the implied warranty of
- *    MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, GOOD TITLE or
- *    NON INFRINGEMENT.  See the GNU General Public License for more details.
- *
  *    Questions/Comments/Bugfixes to esc.storagedev@microsemi.com
- *
  */
 #ifndef HPSA_H
 #define HPSA_H
