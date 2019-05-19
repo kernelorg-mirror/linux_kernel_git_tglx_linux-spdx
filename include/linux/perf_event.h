@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Performance events:
  *
@@ -8,8 +9,6 @@
  * Data type definitions, declarations, prototypes.
  *
  *    Started by: Thomas Gleixner and Ingo Molnar
- *
- * For licencing details see kernel-base/COPYING
  */
 #ifndef _LINUX_PERF_EVENT_H
 #define _LINUX_PERF_EVENT_H

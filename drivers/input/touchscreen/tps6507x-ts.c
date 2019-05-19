@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Touchscreen driver for the tps6507x chip.
  *
@@ -6,8 +7,6 @@
  * Credits:
  *
  *    Using code from tsc2007, MtekVision Co., Ltd.
- *
- * For licencing details see kernel-base/COPYING
  *
  * TPS65070, TPS65073, TPS650731, and TPS650732 support
  * 10 bit touch screen interface.

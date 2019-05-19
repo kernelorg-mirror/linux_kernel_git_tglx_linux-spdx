@@ -1,9 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Performance events - AMD IBS
  *
  *  Copyright (C) 2011 Advanced Micro Devices, Inc., Robert Richter
- *
- *  For licencing details see kernel-base/COPYING
  */
 
 #include <linux/perf_event.h>

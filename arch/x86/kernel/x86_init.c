@@ -1,7 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2009 Thomas Gleixner <tglx@linutronix.de>
- *
- *  For licencing details see kernel-base/COPYING
  */
 #include <linux/init.h>
 #include <linux/ioport.h>

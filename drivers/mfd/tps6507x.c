@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * tps6507x.c  --  TPS6507x chip family multi-function driver
  *
@@ -9,9 +10,6 @@
  * Credits:
  *
  *    Using code from wm831x-*.c, wm8400-core, Wolfson Microelectronics PLC.
- *
- * For licencing details see kernel-base/COPYING
- *
  */
 
 #include <linux/module.h>

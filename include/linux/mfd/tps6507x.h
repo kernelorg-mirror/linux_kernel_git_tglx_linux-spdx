@@ -1,11 +1,9 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* linux/mfd/tps6507x.h
  *
  * Functions to access TPS65070 power management chip.
  *
  * Copyright (c) 2009 RidgeRun (todd.fischer@ridgerun.com)
- *
- *
- *  For licencing details see kernel-base/COPYING
  */
 
 #ifndef __LINUX_MFD_TPS6507X_H

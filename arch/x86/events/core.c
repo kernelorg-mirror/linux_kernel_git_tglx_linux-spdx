@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Performance events x86 architecture code
  *
@@ -8,8 +9,6 @@
  *  Copyright (C) 2008-2009 Red Hat, Inc., Peter Zijlstra
  *  Copyright (C) 2009 Intel Corporation, <markus.t.metzger@intel.com>
  *  Copyright (C) 2009 Google, Inc., Stephane Eranian
- *
- *  For licencing details see kernel-base/COPYING
  */
 
 #include <linux/perf_event.h>
