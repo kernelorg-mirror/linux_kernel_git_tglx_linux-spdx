@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 
 /*
  * Keyed 32-bit hash function using TEA in a Davis-Meyer function
