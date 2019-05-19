@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-2.0-only
 # Makefile for Linux samples code
 
 obj-y			+= kobject/ kprobes/ trace_events/ livepatch/ \
