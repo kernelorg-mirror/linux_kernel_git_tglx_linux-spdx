@@ -1,10 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2000 Jens Axboe <axboe@suse.de>
  * Copyright (C) 2001-2004 Peter Osterlund <petero2@telia.com>
  * Copyright (C) 2006 Thomas Maier <balagi@justmail.de>
- *
- * May be copied or modified under the terms of the GNU General Public
- * License.  See linux/COPYING for more information.
  *
  * Packet writing layer for ATAPI and SCSI CD-RW, DVD+RW, DVD-RW and
  * DVD-RAM devices.
