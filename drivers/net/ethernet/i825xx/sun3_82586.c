@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Sun3 i82586 Ethernet driver
  *
@@ -8,9 +9,6 @@
  *
  * net-3-driver for the NI5210 card (i82586 Ethernet chip)
  *
- * This is an extension to the Linux operating system, and is covered by the
- * same Gnu Public License that covers that work.
- *
  * Alphacode 0.82 (96/09/29) for Linux 2.0.0 (or later)
  * Copyrights (c) 1994,1995,1996 by M.Hipp (hippm@informatik.uni-tuebingen.de)
  * --------------------------
@@ -20,7 +18,6 @@
  * This incarnation currently supports the OBIO version of the i82586 chip
  * used in certain sun3 models.  It should be fairly doable to expand this
  * to support VME if I should every acquire such a board.
- *
  */
 
 static int debuglevel = 0; /* debug-printk 0: off 1: a few 2: more */
