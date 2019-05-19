@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Driver for the ST Microelectronics SPEAr pinmux
  *
@@ -7,10 +8,6 @@
  * Inspired from:
  * - U300 Pinctl drivers
  * - Tegra Pinctl drivers
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/err.h>

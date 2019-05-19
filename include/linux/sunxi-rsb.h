@@ -1,13 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Allwinner Reduced Serial Bus Driver
  *
  * Copyright (c) 2015 Chen-Yu Tsai
  *
  * Author: Chen-Yu Tsai <wens@csie.org>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 #ifndef _SUNXI_RSB_H
 #define _SUNXI_RSB_H

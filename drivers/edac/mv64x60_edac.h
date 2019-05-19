@@ -1,13 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * EDAC defs for Marvell MV64x60 bridge chip
  *
  * Author: Dave Jiang <djiang@mvista.com>
  *
- * 2007 (c) MontaVista Software, Inc. This file is licensed under
- * the terms of the GNU General Public License version 2. This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
- *
+ * 2007 (c) MontaVista Software, Inc.
  */
 #ifndef _MV64X60_EDAC_H_
 #define _MV64X60_EDAC_H_

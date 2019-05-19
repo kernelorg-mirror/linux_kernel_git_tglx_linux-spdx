@@ -1,16 +1,12 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Public header for the MPC52xx processor BestComm driver
- *
  *
  * Copyright (C) 2006      Sylvain Munaut <tnt@246tNt.com>
  * Copyright (C) 2005      Varma Electronics Oy,
  *                         ( by Andrey Volkov <avolkov@varma-el.com> )
  * Copyright (C) 2003-2004 MontaVista, Software, Inc.
  *                         ( by Dale Farnsworth <dfarnsworth@mvista.com> )
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #ifndef __BESTCOMM_H__

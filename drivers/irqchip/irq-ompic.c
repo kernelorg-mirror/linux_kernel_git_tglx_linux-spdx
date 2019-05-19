@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Open Multi-Processor Interrupt Controller driver
  *
  * Copyright (C) 2014 Stefan Kristiansson <stefan.kristiansson@saunalahti.fi>
  * Copyright (C) 2017 Stafford Horne <shorne@gmail.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  *
  * The ompic device handles IPI communication between cores in multi-core
  * OpenRISC systems.
@@ -55,7 +52,6 @@
  *   | ompic  |<===/    | Device |<===/
  *   |  IPI   |         +--------+
  *   +--------+*
- *
  */
 
 #include <linux/io.h>

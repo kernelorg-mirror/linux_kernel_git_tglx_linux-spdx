@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Marvell Armada 370, 38x and XP SoC cpuidle driver
  *
@@ -5,10 +6,6 @@
  *
  * Nadav Haklai <nadavh@marvell.com>
  * Gregory CLEMENT <gregory.clement@free-electrons.com>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  *
  * Maintainer: Gregory CLEMENT <gregory.clement@free-electrons.com>
  */

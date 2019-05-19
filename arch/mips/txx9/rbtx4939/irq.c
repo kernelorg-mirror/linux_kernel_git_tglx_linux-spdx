@@ -1,13 +1,11 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Toshiba RBTX4939 interrupt routines
  * Based on linux/arch/mips/txx9/rbtx4938/irq.c,
  *	    and RBTX49xx patch from CELF patch archive.
  *
  * Copyright (C) 2000-2001,2005-2006 Toshiba Corporation
- * 2003-2005 (c) MontaVista Software, Inc. This file is licensed under the
- * terms of the GNU General Public License version 2. This program is
- * licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2003-2005 (c) MontaVista Software, Inc.
  */
 #include <linux/init.h>
 #include <linux/interrupt.h>

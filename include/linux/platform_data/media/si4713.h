@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * include/linux/platform_data/media/si4713.h
  *
@@ -5,11 +6,6 @@
  *
  * Copyright (c) 2009 Nokia Corporation
  * Contact: Eduardo Valentin <eduardo.valentin@nokia.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
- *
  */
 
 #ifndef SI4713_H

@@ -1,11 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * arch/arm/mach-iop33x/include/mach/entry-macro.S
  *
  * Low-level IRQ helper macros for IOP33x-based platforms
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 #include <mach/iop33x.h>
 

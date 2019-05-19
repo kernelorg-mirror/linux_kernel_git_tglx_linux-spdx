@@ -1,13 +1,9 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Header for Bestcomm ATA task driver
  *
- *
  * Copyright (C) 2006 Freescale - John Rigby
  * Copyright (C) 2006 Sylvain Munaut <tnt@246tNt.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #ifndef __BESTCOMM_ATA_H__
