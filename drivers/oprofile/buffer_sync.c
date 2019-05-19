@@ -1,8 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /**
  * @file buffer_sync.c
  *
  * @remark Copyright 2002-2009 OProfile authors
- * @remark Read the file COPYING
  *
  * @author John Levon <levon@movementarian.org>
  * @author Barry Kasindorf
