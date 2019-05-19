@@ -1,6 +1,6 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * dump_psb. (c) 2004, Dave Jones, Red Hat Inc.
- * Licensed under the GPL v2.
  */
 
 #include <fcntl.h>
