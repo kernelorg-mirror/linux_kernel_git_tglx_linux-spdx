@@ -12940,7 +12940,6 @@ QLOGIC QLA2XXX FC-SCSI DRIVER
 M:	qla2xxx-upstream@qlogic.com
 L:	linux-scsi@vger.kernel.org
 S:	Supported
-F:	Documentation/scsi/LICENSE.qla2xxx
 F:	drivers/scsi/qla2xxx/
 
 QLOGIC QLA3XXX NETWORK DRIVER
