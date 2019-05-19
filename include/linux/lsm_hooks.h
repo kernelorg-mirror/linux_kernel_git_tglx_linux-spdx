@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-or-later */
 /*
  * Linux Security Module interfaces
  *
@@ -9,17 +10,6 @@
  * Copyright (C) 2015 Intel Corporation.
  * Copyright (C) 2015 Casey Schaufler <casey@schaufler-ca.com>
  * Copyright (C) 2016 Mellanox Techonologies
- *
- *	This program is free software; you can redistribute it and/or modify
- *	it under the terms of the GNU General Public License as published by
- *	the Free Software Foundation; either version 2 of the License, or
- *	(at your option) any later version.
- *
- *	Due to this file being licensed under the GPL there is controversy over
- *	whether this permits you to write a module that #includes this file
- *	without placing your module under the GPL.  Please consult a lawyer for
- *	advice before doing this.
- *
  */
 
 #ifndef __LINUX_LSM_HOOKS_H
