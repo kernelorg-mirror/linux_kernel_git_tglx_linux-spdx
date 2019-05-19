@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Accelerated CRC32(C) using ARM CRC, NEON and Crypto Extensions instructions
  *
