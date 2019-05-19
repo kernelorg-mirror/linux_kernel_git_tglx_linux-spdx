@@ -1,11 +1,7 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* AES (Rijndael) implementation (FIPS PUB 197) for x86_64
  *
  * Copyright (C) 2005 Andreas Steinmetz, <ast@domdv.de>
- *
- * License:
- * This code can be distributed under the terms of the GNU General Public
- * License (GPL) Version 2 provided that the above header down to and
- * including this sentence is retained in full.
  */
 
 .extern crypto_ft_tab
