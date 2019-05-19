@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * ni6510 (am7990 'lance' chip) driver for Linux-net-3
  * BETAcode v0.71 (96/09/29) for 2.0.0 (or later)
@@ -8,9 +9,6 @@
  * compatible card)
  *
  * driver probes: io: 0x360,0x300,0x320,0x340 / dma: 3,5,6,7
- *
- * This is an extension to the Linux operating system, and is covered by the
- * same GNU General Public License that covers the Linux-kernel.
  *
  * comments/bugs/suggestions can be sent to:
  *   Michael Hipp
