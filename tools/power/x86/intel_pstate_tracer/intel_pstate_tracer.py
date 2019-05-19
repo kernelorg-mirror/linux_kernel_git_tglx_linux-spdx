@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# SPDX-License-Identifier: GPL-2.0-only
 # -*- coding: utf-8 -*-
 #
 """ This utility can be used to debug and tune the performance of the
@@ -37,7 +38,6 @@ from decimal import *
 
 __author__ = "Srinivas Pandruvada"
 __copyright__ = " Copyright (c) 2017, Intel Corporation. "
-__license__ = "GPL version 2"
 
 
 MAX_CPUS = 256
