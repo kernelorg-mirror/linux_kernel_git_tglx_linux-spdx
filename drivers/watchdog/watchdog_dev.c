@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
 /*
  *	watchdog_dev.c
  *
@@ -5,7 +6,6 @@
  *						All Rights Reserved.
  *
  *	(c) Copyright 2008-2011 Wim Van Sebroeck <wim@iguana.be>.
- *
  *
  *	This source code is part of the generic code that can be used
  *	by all the watchdog timer drivers.
@@ -19,15 +19,6 @@
  *	  Rusty Lynch <rusty@linux.co.intel.com>
  *	  Satyam Sharma <satyam@infradead.org>
  *	  Randy Dunlap <randy.dunlap@oracle.com>
- *
- *	This program is free software; you can redistribute it and/or
- *	modify it under the terms of the GNU General Public License
- *	as published by the Free Software Foundation; either version
- *	2 of the License, or (at your option) any later version.
- *
- *	Neither Alan Cox, CymruNet Ltd., Wim Van Sebroeck nor Iguana vzw.
- *	admit liability nor provide warranty for any of this software.
- *	This material is provided "AS-IS" and at no charge.
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt
