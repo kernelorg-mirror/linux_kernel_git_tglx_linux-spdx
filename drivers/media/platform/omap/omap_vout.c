@@ -1,11 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * omap_vout.c
  *
  * Copyright (C) 2005-2010 Texas Instruments.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  *
  * Leveraged code from the OMAP2 camera driver
  * Video-for-Linux (Version 2) camera capture driver for
@@ -26,7 +23,6 @@
  * 17-Nov-2008 Hardik		Changed driver to use video_ioctl2
  *
  * 23-Feb-2010 Vaibhav H	Modified to use new DSS2 interface
- *
  */
 
 #include <linux/init.h>

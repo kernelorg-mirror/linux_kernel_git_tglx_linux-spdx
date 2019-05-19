@@ -1,13 +1,11 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * linux/arch/mips/tx4938/common/irq.c
  *
  * Common tx4938 irq handler
  * Copyright (C) 2000-2001 Toshiba Corporation
  *
- * 2003-2005 (c) MontaVista Software, Inc. This file is licensed under the
- * terms of the GNU General Public License version 2. This program is
- * licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2003-2005 (c) MontaVista Software, Inc.
  *
  * Support for TX4938 in 2.6 - Manish Lachwani (mlachwani@mvista.com)
  */

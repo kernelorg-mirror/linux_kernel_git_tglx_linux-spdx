@@ -1,10 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * include/asm-ppc/mpc52xx_psc.h
  *
  * Definitions of consts/structs to drive the Freescale MPC52xx OnChip
  * PSCs. Theses are shared between multiple drivers since a PSC can be
  * UART, AC97, IR, I2S, ... So this header is in asm-ppc.
- *
  *
  * Maintainer : Sylvain Munaut <tnt@246tNt.com>
  *
@@ -13,10 +13,6 @@
  *
  * Copyright (C) 2004 Sylvain Munaut <tnt@246tNt.com>
  * Copyright (C) 2003 MontaVista, Software, Inc.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #ifndef __ASM_MPC52xx_PSC_H__

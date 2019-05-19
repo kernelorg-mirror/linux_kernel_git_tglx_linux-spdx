@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * (C) Copyright 2003-2004
  * Humboldt Solutions Ltd, adrian@humboldt.co.uk.
@@ -7,10 +8,6 @@
  * the same I2C unit (8240, 8245, 85xx).
  *
  * Release 0.8
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/kernel.h>

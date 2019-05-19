@@ -1,13 +1,11 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Provides I2C support for Philips PNX010x/PNX4008 boards.
  *
  * Authors: Dennis Kovalev <dkovalev@ru.mvista.com>
  *	    Vitaly Wool <vwool@ru.mvista.com>
  *
- * 2004-2006 (c) MontaVista Software, Inc. This file is licensed under
- * the terms of the GNU General Public License version 2. This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2004-2006 (c) MontaVista Software, Inc.
  */
 
 #include <linux/module.h>

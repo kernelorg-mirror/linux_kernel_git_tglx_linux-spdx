@@ -1,11 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * P2WI (Push-Pull Two Wire Interface) bus driver.
  *
  * Author: Boris BREZILLON <boris.brezillon@free-electrons.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  *
  * The P2WI controller looks like an SMBus controller which only supports byte
  * data transfers. But, it differs from standard SMBus protocol on several
@@ -19,7 +16,6 @@
  * This means this bus cannot be used to interface with standard SMBus
  * devices (the only known device to support this interface is the AXP221
  * PMIC).
- *
  */
 #include <linux/clk.h>
 #include <linux/i2c.h>

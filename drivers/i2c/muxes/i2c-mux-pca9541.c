@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * I2C multiplexer driver for PCA9541 bus master selector
  *
@@ -10,10 +11,6 @@
  *
  *  Copyright (c) 2008-2009 Rodolfo Giometti <giometti@linux.it>
  *  Copyright (c) 2008-2009 Eurotech S.p.A. <info@eurotech.it>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/delay.h>

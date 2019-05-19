@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Freescale Memory Controller kernel module
  *
@@ -8,10 +9,7 @@
  * Derived from mpc85xx_edac.c
  * Author: Dave Jiang <djiang@mvista.com>
  *
- * 2006-2007 (c) MontaVista Software, Inc. This file is licensed under
- * the terms of the GNU General Public License version 2. This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2006-2007 (c) MontaVista Software, Inc.
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * This file supports the Xilinx ML507 board with the 440 processor.
  * A reference design for the FPGA is provided at http://git.xilinx.com.
  *
  * (C) Copyright 2008 Xilinx, Inc.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  *
  * ---
  *

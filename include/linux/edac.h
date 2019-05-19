@@ -1,13 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Generic EDAC defs
  *
  * Author: Dave Jiang <djiang@mvista.com>
  *
- * 2006-2008 (c) MontaVista Software, Inc. This file is licensed under
- * the terms of the GNU General Public License version 2. This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
- *
+ * 2006-2008 (c) MontaVista Software, Inc.
  */
 #ifndef _LINUX_EDAC_H_
 #define _LINUX_EDAC_H_

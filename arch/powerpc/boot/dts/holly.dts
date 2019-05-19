@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Device Tree Source for IBM Holly (PPC 750CL with TSI controller)
  * Copyright 2007, IBM Corporation
  *
  * Stephen Winiecki <stevewin@us.ibm.com>
  * Josh Boyer <jwboyer@linux.vnet.ibm.com>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without
- * any warranty of any kind, whether express or implied.
  */
 
 /dts-v1/;

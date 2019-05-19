@@ -1,13 +1,10 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Miscellaneous SoC-specific hooks.
  *
  * Copyright (C) 2011 Texas Instruments Incorporated
  *
  * Author: Mark Salter <msalter@redhat.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 #ifndef _ASM_C6X_SOC_H
 #define _ASM_C6X_SOC_H

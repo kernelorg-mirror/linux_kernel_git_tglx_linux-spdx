@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * drivers/net/wireless/mwl8k.c
  * Driver for Marvell TOPDOG 802.11 Wireless cards
  *
  * Copyright (C) 2008, 2009, 2010 Marvell Semiconductor Inc.
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/interrupt.h>

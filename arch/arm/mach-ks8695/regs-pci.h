@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * arch/arm/mach-ks8695/include/mach/regs-pci.h
  *
@@ -5,10 +6,6 @@
  * Copyright (C) 2006 Simtec Electronics
  *
  * KS8695 - PCI bridge registers and bit definitions.
- *
- * This file is licensed under  the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #define KS8695_PCI_OFFSET	(0xF0000 + 0x2000)

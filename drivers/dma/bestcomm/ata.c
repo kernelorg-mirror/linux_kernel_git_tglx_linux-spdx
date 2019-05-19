@@ -1,16 +1,12 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Bestcomm ATA task driver
- *
  *
  * Patterned after bestcomm/fec.c by Dale Farnsworth <dfarnsworth@mvista.com>
  *                                   2003-2004 (c) MontaVista, Software, Inc.
  *
  * Copyright (C) 2006-2007 Sylvain Munaut <tnt@246tNt.com>
  * Copyright (C) 2006      Freescale - John Rigby
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #include <linux/kernel.h>

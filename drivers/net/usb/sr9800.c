@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /* CoreChip-sz SR9800 one chip USB 2.0 Ethernet Devices
  *
  * Author : Liu Junliang <liujunliang_ljl@163.com>
  *
  * Based on asix_common.c, asix_devices.c
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.*
  */
 
 #include <linux/module.h>

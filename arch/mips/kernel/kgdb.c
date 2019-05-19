@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  *  Originally written by Glenn Engel, Lake Stevens Instrument Division
  *
@@ -16,10 +17,6 @@
  *
  *  Copyright (C) 2007-2008 Wind River Systems, Inc.
  *  Author/Maintainer: Jason Wessel, jason.wessel@windriver.com
- *
- *  This file is licensed under the terms of the GNU General Public License
- *  version 2. This program is licensed "as is" without any warranty of any
- *  kind, whether express or implied.
  */
 
 #include <linux/ptrace.h>		/* for linux pt_regs struct */

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Driver for the MPC5200 Fast Ethernet Controller
  *
@@ -7,11 +8,6 @@
  * Copyright (C) 2007  Domen Puncer, Telargo, Inc.
  * Copyright (C) 2007  Sylvain Munaut <tnt@246tNt.com>
  * Copyright (C) 2003-2004  MontaVista, Software, Inc.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
- *
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

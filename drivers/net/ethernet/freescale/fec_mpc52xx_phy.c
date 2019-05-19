@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Driver for the MPC5200 Fast Ethernet Controller - MDIO bus driver
  *
  * Copyright (C) 2007  Domen Puncer, Telargo, Inc.
  * Copyright (C) 2008  Wolfram Sang, Pengutronix
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #include <linux/kernel.h>

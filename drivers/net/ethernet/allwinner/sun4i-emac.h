@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Allwinner EMAC Fast Ethernet driver for Linux.
  *
@@ -6,10 +7,6 @@
  *
  * Based on the Linux driver provided by Allwinner:
  * Copyright (C) 1997  Sten Wang
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #ifndef _SUN4I_EMAC_H_

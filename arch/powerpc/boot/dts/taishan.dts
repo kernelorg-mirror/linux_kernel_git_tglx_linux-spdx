@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Device Tree Source for IBM/AMCC Taishan
  *
  * Copyright 2007 IBM Corp.
  * Hugh Blemings <hugh@au.ibm.com> based off code by
  * Josh Boyer <jwboyer@linux.vnet.ibm.com>, David Gibson <dwg@au1.ibm.com>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without
- * any warranty of any kind, whether express or implied.
  */
 
 /dts-v1/;
