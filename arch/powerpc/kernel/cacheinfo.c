@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Processor cache information made available to userspace via sysfs;
  * intended to be compatible with x86 intel_cacheinfo implementation.
  *
  * Copyright 2008 IBM Corporation
  * Author: Nathan Lynch
- *
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License version
- * 2 as published by the Free Software Foundation.
  */
 
 #include <linux/cpu.h>
