@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 #define RCS_ID "$Id: scc.c,v 1.75 1998/11/04 15:15:01 jreuter Exp jreuter $"
 
 #define VERSION "3.0"
@@ -41,17 +42,6 @@
    allowance/licence from the designer of the SCC Board and/or the
    MODEM. 
 
-   This program is free software; you can redistribute it and/or modify 
-   it under the terms of the (modified) GNU General Public License 
-   delivered with the Linux kernel source.
-   
-   This program is distributed in the hope that it will be useful,
-   but WITHOUT ANY WARRANTY; without even the implied warranty of
-   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-   GNU General Public License for more details.
-
-   You should find a copy of the GNU General Public License in 
-   /usr/src/linux/COPYING; 
    
    ******************************************************************** 
 
