@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * genelf_debug.c
  * Copyright (C) 2015, Google, Inc
@@ -5,9 +6,6 @@
  * Contributed by:
  * 	Stephane Eranian <eranian@google.com>
  *
- * Released under the GPL v2.
- *
- * based on GPLv2 source code from Oprofile
  * @remark Copyright 2007 OProfile authors
  * @author Philippe Elie
  */
