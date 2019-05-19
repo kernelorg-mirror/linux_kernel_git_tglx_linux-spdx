@@ -1,9 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /* sun3lance.c: Ethernet driver for SUN3 Lance chip */
 /*
 
   Sun3 Lance ethernet driver, by Sam Creasey (sammy@users.qual.net).
-  This driver is a part of the linux kernel, and is thus distributed
-  under the GNU General Public License.
 
   The values used in LANCE_OBIO and LANCE_IRQ seem to be empirically
   true for the correct IRQ and address of the lance registers.  They
