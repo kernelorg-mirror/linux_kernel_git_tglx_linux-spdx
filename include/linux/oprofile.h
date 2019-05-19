@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /**
  * @file oprofile.h
  *
@@ -5,7 +6,6 @@
  * to oprofile.
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author John Levon <levon@movementarian.org>
  */

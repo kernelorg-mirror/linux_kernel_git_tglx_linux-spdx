@@ -1,8 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /**
  * @file arch/alpha/oprofile/op_model_ev67.c
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author Richard Henderson <rth@twiddle.net>
  * @author Falk Hueffner <falk@debian.org>

@@ -1,8 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /**
  * @file event_buffer.c
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author John Levon <levon@movementarian.org>
  *

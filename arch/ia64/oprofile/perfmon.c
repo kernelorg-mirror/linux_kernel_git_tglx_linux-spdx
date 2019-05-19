@@ -1,8 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /**
  * @file perfmon.c
  *
  * @remark Copyright 2003 OProfile authors
- * @remark Read the file COPYING
  *
  * @author John Levon <levon@movementarian.org>
  */

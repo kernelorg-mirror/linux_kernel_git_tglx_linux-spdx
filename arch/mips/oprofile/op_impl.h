@@ -1,8 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /**
  * @file arch/alpha/oprofile/op_impl.h
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author Richard Henderson <rth@twiddle.net>
  */

@@ -1,8 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /**
  * @file backtrace.c
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author John Levon
  * @author David Smith

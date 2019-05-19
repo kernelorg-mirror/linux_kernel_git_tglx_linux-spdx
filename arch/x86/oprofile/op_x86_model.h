@@ -1,9 +1,9 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /**
  * @file op_x86_model.h
  * interface to x86 model-specific MSR operations
  *
  * @remark Copyright 2002 OProfile authors
- * @remark Read the file COPYING
  *
  * @author Graydon Hoare
  * @author Robert Richter <robert.richter@amd.com>
