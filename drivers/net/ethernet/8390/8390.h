@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* Generic NS8390 register definitions. */
 /* This file is part of Donald Becker's 8390 drivers, and is distributed
    under the same license. Auto-loading of 8390.o only in v2.2 - Paul G.
