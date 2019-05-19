@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * super.c
  *
@@ -13,12 +14,6 @@
  *    http://www.osta.org/
  *    http://www.ecma.ch/
  *    http://www.iso.org/
- *
- * COPYRIGHT
- *  This file is distributed under the terms of the GNU General Public
- *  License (GPL). Copies of the GPL can be obtained from:
- *    ftp://prep.ai.mit.edu/pub/gnu/GPL
- *  Each contributing author retains all rights to their own work.
  *
  *  (C) 1998 Dave Boynton
  *  (C) 1998-2004 Ben Fennema

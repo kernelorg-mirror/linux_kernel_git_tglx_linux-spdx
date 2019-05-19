@@ -1,21 +1,15 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * partition.c
  *
  * PURPOSE
  *      Partition handling routines for the OSTA-UDF(tm) filesystem.
  *
- * COPYRIGHT
- *      This file is distributed under the terms of the GNU General Public
- *      License (GPL). Copies of the GPL can be obtained from:
- *              ftp://prep.ai.mit.edu/pub/gnu/GPL
- *      Each contributing author retains all rights to their own work.
- *
  *  (C) 1998-2001 Ben Fennema
  *
  * HISTORY
  *
  * 12/06/98 blf  Created file.
- *
  */
 
 #include "udfdecl.h"
