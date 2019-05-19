@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * SPEAr platform PLGPIO driver
  *
  * Copyright (C) 2012 ST Microelectronics
  * Viresh Kumar <viresh.kumar@linaro.org>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/clk.h>

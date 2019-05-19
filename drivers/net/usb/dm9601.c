@@ -1,11 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Davicom DM96xx USB 10/100Mbps ethernet devices
  *
  * Peter Korsgaard <jacmet@sunsite.dk>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 //#define DEBUG

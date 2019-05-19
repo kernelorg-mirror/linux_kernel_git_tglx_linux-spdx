@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * (C) Copyright 2009-2010
  * Nokia Siemens Networks, michael.lawnick.ext@nsn.com
@@ -5,10 +6,6 @@
  * Portions Copyright (C) 2010 - 2016 Cavium, Inc.
  *
  * This is a driver for the i2c adapter in Cavium Networks' OCTEON processors.
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/atomic.h>

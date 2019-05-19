@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /* MOXA ART Ethernet (RTL8201CP) driver.
  *
  * Copyright (C) 2013 Jonas Jensen
@@ -6,10 +7,6 @@
  *
  * Based on code from
  * Moxa Technology Co., Ltd. <www.moxa.com>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #ifndef _MOXART_ETHERNET_H

@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * omap-rng.c - RNG driver for TI OMAP CPU family
  *
@@ -9,10 +10,6 @@
  *
  * Copyright (C) 2005 Nokia Corporation
  * Author: Juha Yrjölä <juha.yrjola@nokia.com>
- *
- * This file is licensed under  the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/module.h>

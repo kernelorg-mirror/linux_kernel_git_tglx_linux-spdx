@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Cavium ThunderX i2c driver.
  *
  * Copyright (C) 2015,2016 Cavium Inc.
  * Authors: Fred Martin <fmartin@caviumnetworks.com>
  *	    Jan Glauber <jglauber@cavium.com>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/acpi.h>

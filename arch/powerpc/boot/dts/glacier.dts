@@ -1,11 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Device Tree Source for AMCC Glacier (460GT)
  *
  * Copyright 2008-2010 DENX Software Engineering, Stefan Roese <sr@denx.de>
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without
- * any warranty of any kind, whether express or implied.
  */
 
 /dts-v1/;

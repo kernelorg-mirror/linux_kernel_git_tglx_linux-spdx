@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * CoreChip-sz SR9700 one chip USB 1.1 Ethernet Devices
  *
  * Author : Liu Junliang <liujunliang_ljl@163.com>
  *
  * Based on dm9601.c
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #include <linux/module.h>

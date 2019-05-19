@@ -1,11 +1,8 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * arch/arm/plat-orion/time.c
  *
  * Marvell Orion SoC timer handling.
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  *
  * Timer 0 is used as free-running clocksource, while timer 1 is
  * used as clock_event_device.

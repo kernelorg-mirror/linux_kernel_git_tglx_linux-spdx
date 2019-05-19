@@ -1,11 +1,9 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Definitions for TX4939
  *
  * Copyright (C) 2000-2001,2005-2006 Toshiba Corporation
- * 2003-2005 (c) MontaVista Software, Inc. This file is licensed under the
- * terms of the GNU General Public License version 2. This program is
- * licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2003-2005 (c) MontaVista Software, Inc.
  */
 #ifndef __ASM_TXX9_TX4939_H
 #define __ASM_TXX9_TX4939_H

@@ -1,12 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Interface for smsc fdc48m81x Super IO chip
  *
  * Author: MontaVista Software, Inc. source@mvista.com
  *
- * 2001-2003 (c) MontaVista Software, Inc. This file is licensed under
- * the terms of the GNU General Public License version 2. This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2001-2003 (c) MontaVista Software, Inc.
  *
  * Copyright 2004 (c) MontaVista Software, Inc.
  */

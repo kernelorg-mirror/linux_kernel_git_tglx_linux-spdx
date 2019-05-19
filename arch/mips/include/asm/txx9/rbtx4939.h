@@ -1,11 +1,9 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Definitions for RBTX4939
  *
  * (C) Copyright TOSHIBA CORPORATION 2005-2006
- * 2003-2005 (c) MontaVista Software, Inc. This file is licensed under the
- * terms of the GNU General Public License version 2. This program is
- * licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2003-2005 (c) MontaVista Software, Inc.
  */
 #ifndef __ASM_TXX9_RBTX4939_H
 #define __ASM_TXX9_RBTX4939_H

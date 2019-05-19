@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Architecture- / platform-specific boot-time initialization code for
  * IBM PowerPC 4xx based boards. Adapted from original
@@ -15,9 +16,6 @@
  * TODO: Wire up the PCI IRQ mux and the southbridge interrupts
  *
  * 2002 (c) MontaVista, Software, Inc.  This file is licensed under
- * the terms of the GNU General Public License version 2.  This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
  */
 
 #include <linux/init.h>
