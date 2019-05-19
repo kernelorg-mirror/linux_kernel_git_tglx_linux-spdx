@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * rrunner.c: Linux driver for the Essential RoadRunner HIPPI board.
  *
@@ -6,13 +7,6 @@
  * Thanks to Essential Communication for providing us with hardware
  * and very comprehensive documentation without which I would not have
  * been able to write this driver. A special thank you to John Gibbon
- * for sorting out the legal issues, with the NDA, allowing the code to
- * be released under the GPL.
- *
- * This program is free software; you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation; either version 2 of the License, or
- * (at your option) any later version.
  *
  * Thanks to Jayaram Bhat from ODS/Essential for fixing some of the
  * stupid bugs in my code.
