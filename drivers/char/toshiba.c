@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-or-later
 /* toshiba.c -- Linux driver for accessing the SMM on Toshiba laptops
  *
  * Copyright (c) 1996-2001  Jonathan A. Buzzard (jonathan@buzzard.org.uk)
@@ -24,33 +25,11 @@
  *
  * WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING
  *
- *   This code is covered by the GNU GPL and you are free to make any
- *   changes you wish to it under the terms of the license. However the
- *   code has the potential to render your computer and/or someone else's
- *   unusable. Please proceed with care when modifying the code.
- *
- * Note: Unfortunately the laptop hardware can close the System Configuration
- *       Interface on it's own accord. It is therefore necessary for *all*
- *       programs using this driver to be aware that *any* SCI call can fail at
- *       *any* time. It is up to any program to be aware of this eventuality
- *       and take appropriate steps.
- *
- * This program is free software; you can redistribute it and/or modify it
- * under the terms of the GNU General Public License as published by the
- * Free Software Foundation; either version 2, or (at your option) any
- * later version.
- *
- * This program is distributed in the hope that it will be useful, but
- * WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- * General Public License for more details.
- *
  * The information used to write this driver has been obtained by reverse
  * engineering the software supplied by Toshiba for their portable computers in
  * strict accordance with the European Council Directive 92/250/EEC on the legal
  * protection of computer programs, and it's implementation into English Law by
  * the Copyright (Computer Programs) Regulations 1992 (S.I. 1992 No.3233).
- *
  */
 
 #define TOSH_VERSION "1.11 26/9/2001"
