@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Amiga Linux/68k A2065 Ethernet Driver
  *
@@ -24,10 +25,6 @@
  *			Publication #16907, Rev. B, Amendment/0, May 1994
  *
  * ----------------------------------------------------------------------------
- *
- * This file is subject to the terms and conditions of the GNU General Public
- * License.  See the file COPYING in the main directory of the Linux
- * distribution for more details.
  *
  * ----------------------------------------------------------------------------
  *
