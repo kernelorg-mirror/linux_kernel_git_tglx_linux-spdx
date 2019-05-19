@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * crc32.h
  * See linux/lib/crc32.c for license and changes
