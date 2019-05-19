@@ -1,14 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * symlink.c
  *
  * PURPOSE
  *	Symlink handling routines for the OSTA-UDF(tm) filesystem.
- *
- * COPYRIGHT
- *	This file is distributed under the terms of the GNU General Public
- *	License (GPL). Copies of the GPL can be obtained from:
- *		ftp://prep.ai.mit.edu/pub/gnu/GPL
- *	Each contributing author retains all rights to their own work.
  *
  *  (C) 1998-2001 Ben Fennema
  *  (C) 1999 Stelias Computing Inc
@@ -16,7 +11,6 @@
  * HISTORY
  *
  *  04/16/99 blf  Created.
- *
  */
 
 #include "udfdecl.h"
