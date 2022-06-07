@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * PCI support for Xilinx plbv46_pci soft-core which can be used on
  * Xilinx Virtex ML410 / ML510 boards.
@@ -8,10 +9,6 @@
  * The pci bridge fixup code was copied from ppc4xx_pci.c and was written
  * by Benjamin Herrenschmidt.
  * Copyright 2007 Ben. Herrenschmidt <benh@kernel.crashing.org>, IBM Corp.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #include <linux/ioport.h>
