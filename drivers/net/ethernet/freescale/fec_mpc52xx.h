@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * drivers/net/ethernet/freescale/fec_mpc52xx.h
  *
@@ -5,10 +6,7 @@
  *
  * Author: Dale Farnsworth <dfarnsworth@mvista.com>
  *
- * 2003-2004 (c) MontaVista, Software, Inc.  This file is licensed under
- * the terms of the GNU General Public License version 2.  This program
- * is licensed "as is" without any warranty of any kind, whether express
- * or implied.
+ * 2003-2004 (c) MontaVista, Software, Inc.
  */
 
 #ifndef __DRIVERS_NET_MPC52XX_FEC_H__

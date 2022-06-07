@@ -1,12 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * omap_voutlib.h
  *
  * Copyright (C) 2010 Texas Instruments.
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
- *
  */
 
 #ifndef OMAP_VOUTLIB_H
@@ -36,4 +32,3 @@ void omap_vout_free_buffer(unsigned long virtaddr, u32 buf_size);
 bool omap_vout_dss_omap24xx(void);
 bool omap_vout_dss_omap34xx(void);
 #endif	/* #ifndef OMAP_VOUTLIB_H */
-

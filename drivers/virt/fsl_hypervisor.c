@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Freescale Hypervisor Management Driver
 
  * Copyright (C) 2008-2011 Freescale Semiconductor, Inc.
  * Author: Timur Tabi <timur@freescale.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2.  This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  *
  * The Freescale hypervisor management driver provides several services to
  * drivers and applications related to the Freescale hypervisor:

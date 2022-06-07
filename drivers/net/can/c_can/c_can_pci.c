@@ -1,13 +1,10 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * PCI bus driver for Bosch C_CAN/D_CAN controller
  *
  * Copyright (C) 2012 Federico Vaga <federico.vaga@gmail.com>
  *
  * Borrowed from c_can_platform.c
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include <linux/kernel.h>

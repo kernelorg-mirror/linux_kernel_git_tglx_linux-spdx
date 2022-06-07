@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * CAN bus driver for Bosch C_CAN controller
  *
@@ -13,10 +14,6 @@
  * Bosch C_CAN user manual can be obtained from:
  * http://www.semiconductors.bosch.de/media/en/pdf/ipmodules_1/c_can/
  * users_manual_c_can.pdf
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2. This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #ifndef C_CAN_H

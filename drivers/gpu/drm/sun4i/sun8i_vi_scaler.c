@@ -1,12 +1,9 @@
+// SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2017 Jernej Skrabec <jernej.skrabec@siol.net>
  *
  * Coefficients are taken from BSP driver, which is:
  * Copyright (C) 2014-2015 Allwinner
- *
- * This file is licensed under the terms of the GNU General Public
- * License version 2.  This program is licensed "as is" without any
- * warranty of any kind, whether express or implied.
  */
 
 #include "sun8i_vi_scaler.h"

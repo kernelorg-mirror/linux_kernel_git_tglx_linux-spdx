@@ -1,12 +1,8 @@
+/* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Handling of a sram zone for bestcomm
  *
- *
  * Copyright (C) 2007 Sylvain Munaut <tnt@246tNt.com>
- *
- * This file is licensed under the terms of the GNU General Public License
- * version 2. This program is licensed "as is" without any warranty of any
- * kind, whether express or implied.
  */
 
 #ifndef __BESTCOMM_SRAM_H__
@@ -51,4 +47,3 @@ static inline void *bcom_sram_pa2va(phys_addr_t pa) {
 
 
 #endif  /* __BESTCOMM_SRAM_H__ */
-
